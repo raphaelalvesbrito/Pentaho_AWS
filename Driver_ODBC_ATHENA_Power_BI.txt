@@ -1,0 +1,1 @@
+https://s3.amazonaws.com/athena-downloads/drivers/ODBC/SimbaAthenaODBC_1.1.2/Windows/Simba+Athena+1.1+64-bit.msi

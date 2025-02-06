@@ -1,0 +1,12 @@
+Clica 
+
+serviços
+ IAM
+ usuarios - criar usuarios
+
+
+
+criar grupo
+	full access s3
+	full access athena
+	glue - marcar todas as permissões

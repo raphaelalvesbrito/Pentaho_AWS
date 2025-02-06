@@ -1,0 +1,6 @@
+Pentaho
+s3output
+
+Glue crawler - cria a tabela
+
+athena consulta a tabela criada
